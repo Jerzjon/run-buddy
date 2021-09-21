@@ -60,6 +60,10 @@ header h1 {
   display: inline;
 }
 
+section {
+  padding: 60px;
+}
+
 /* Applies 20px to every side (top, right, bottom, left) */
 footer {
   background: #fce138;
