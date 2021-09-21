@@ -4,20 +4,20 @@
   box-sizing: border-box;
   }
 
-    /* apply styles to <body> */
+/* apply styles to <body> */
 body {
     color: #39a6b2;
     font-family: Helvetica, Arial, sans-serif;
   }
 
-  /* apply styles to <header> */
+/* apply styles to <header> */
 header {
     padding: 20px 35px;
     background-color: #39a6b2;
   }
 
-   /* Applies 20px to every side (top, right, bottom, left) */
- header {
+/* Applies 20px to every side (top, right, bottom, left) */
+header {
   padding: 20px;
 }
 
@@ -60,7 +60,7 @@ header h1 {
   display: inline;
 }
 
- /* Applies 20px to every side (top, right, bottom, left) */
+/* Applies 20px to every side (top, right, bottom, left) */
 footer {
   background: #fce138;
   width: 100%;
