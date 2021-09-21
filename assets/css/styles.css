@@ -60,10 +60,6 @@ header h1 {
   display: inline;
 }
 
-section {
-  padding: 60px;
-}
-
 /* Applies 20px to every side (top, right, bottom, left) */
 footer {
   background: #fce138;
@@ -87,3 +83,22 @@ footer div {
 footer a {
   color: #024e76;
 }
+
+/* Hero Style Start */
+section {
+  padding: 60px;
+}
+
+.hero {
+  background-image: url("../images/hero-bg.jpg");
+  height: 600px;
+  background-size: cover;
+  background-position: center;
+}
+
+.hero-form {
+    background-color: #fce138;
+    padding: 20px;
+    width: 500px;
+    color: #024e76;
+  }
