@@ -60,6 +60,7 @@ header h1 {
   display: inline;
 }
 
+ /* Applies 20px to every side (top, right, bottom, left) */
 footer {
   background: #fce138;
   width: 100%;
